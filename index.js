@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const userRoutes = require('./routes/userRoutes');
 const contentRoutes = require('./routes/contentRoutes');
 const messageRoutes = require('./routes/messageRoutes');
-const mongoUri = "mongodb+srv://yigit:1234@cluster0.yonq0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const mongoUri = "";
 
 
 
